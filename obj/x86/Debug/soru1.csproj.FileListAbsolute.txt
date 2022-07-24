@@ -1,0 +1,11 @@
+D:\sinav\soru1\soru1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\sinav\soru1\soru1\obj\x86\Debug\soru1.Form1.resources
+D:\sinav\soru1\soru1\obj\x86\Debug\soru1.Properties.Resources.resources
+D:\sinav\soru1\soru1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\sinav\soru1\soru1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\sinav\soru1\soru1\bin\Debug\soru1.exe
+D:\sinav\soru1\soru1\bin\Debug\soru1.pdb
+D:\sinav\soru1\soru1\obj\x86\Debug\soru1.exe
+D:\sinav\soru1\soru1\obj\x86\Debug\soru1.pdb
+C:\Users\user\Downloads\soru1\obj\x86\Debug\soru1.exe
+C:\Users\user\Downloads\soru1\obj\x86\Debug\soru1.pdb
