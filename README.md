@@ -1,2 +1,2 @@
 # C#KDV hesaplama
- C# ile kdv hesaplayabilen uygulama 
+ C# ile basit kodlamalar ile kdv hesaplayabilen uygulama
